@@ -1,0 +1,2 @@
+class IllegalLoop(ValueError):
+    pass
